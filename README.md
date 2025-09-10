@@ -54,5 +54,5 @@
 
 ## 📬 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás_Guzmán_Arenas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/nicolas-guzman-arenas/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás_Guzmán_Arenas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-guzman-arenas/)
 [![Email](https://img.shields.io/badge/Email-nguzmanarenas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguzmanarenas@gmail.com)
